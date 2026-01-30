@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14e4db525cb029b5",
+            "id": "d71fd7ed6dadc14f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud/Cloud Practitioner/Module 1 - Introduction to the Cloud/Introduction.md",
+                "file": "Python/Variables and Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Variables and Functions"
             }
           },
           {
-            "id": "d71fd7ed6dadc14f",
+            "id": "25e04c3fe00a2810",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,10 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "d71fd7ed6dadc14f",
+  "active": "05dba82a44503331",
   "lastOpenFiles": [
-    "Cloud/Cloud Practitioner/Module 1 - Introduction to the Cloud/Introduction.md",
+    "[[.md",
     "Python/Variables and Functions.md",
+    "Creating Code with Python.md",
+    "Cloud/Cloud Practitioner/Module 1 - Introduction to the Cloud/Introduction.md",
     "Python",
     "Cloud/Cloud Practitioner",
     "Cloud",
