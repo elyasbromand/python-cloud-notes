@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Variables and Functions.md",
+                "file": "Python/Conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Variables and Functions"
+              "title": "Conditionals"
             }
           }
         ],
@@ -198,10 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "05dba82a44503331",
+  "active": "25e04c3fe00a2810",
   "lastOpenFiles": [
-    "[[.md",
+    "Python/assets/if.png",
+    "Python/Conditionals.md",
+    "Python/assets",
+    "Python/assets/equality.png",
+    "Python/assets/else.png",
+    "Python/assets/elif.png",
     "Python/Variables and Functions.md",
+    "[[.md",
     "Creating Code with Python.md",
     "Cloud/Cloud Practitioner/Module 1 - Introduction to the Cloud/Introduction.md",
     "Python",
