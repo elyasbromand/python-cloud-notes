@@ -1,4 +1,4 @@
-# [Lecture 0](https://cs50.harvard.edu/python/notes/0/#lecture-0)
+## Lecture 0
 
 - [[#Creating Code with Python]]
 - [[#Functions]]

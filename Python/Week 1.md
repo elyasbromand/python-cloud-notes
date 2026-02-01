@@ -1,4 +1,4 @@
-# [Lecture 1](https://cs50.harvard.edu/python/notes/1/#lecture-1)
+## Lecture 1
 
 - [Conditionals](https://cs50.harvard.edu/python/notes/1/#conditionals)
 - [if Statements](https://cs50.harvard.edu/python/notes/1/#if-statements)
