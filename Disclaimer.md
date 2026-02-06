@@ -1,0 +1,1 @@
+These notes are taken from CS50P free course available on Harvard official site.
